@@ -28,7 +28,7 @@ let score={
       }else if(computermove ==='Paper'){
         result = 'tie'
       } else{
-        result= 'You Loose'
+        result= 'You loose'
       }
     }
 
